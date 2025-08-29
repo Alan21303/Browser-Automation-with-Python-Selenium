@@ -40,8 +40,8 @@ Copy code
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Alan21303/browser-automation.git
-   cd browser-automation
+   git clone https://github.com/Alan21303/Browser-Automation-with-Python-Selenium.git
+   cd Browser-Automation-with-Python-Selenium
    Create and activate a virtual environment
    ```
 
